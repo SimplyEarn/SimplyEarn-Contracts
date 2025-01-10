@@ -1,0 +1,24 @@
+{
+  "name": "staking-platform-sc",
+  "version": "1.0.0",
+  "description": "`npm ins tall` ### In stake_pool_bnb.ts, stake_pool_matic.ts, stake_pool_eth.ts => Update your _masterAddress ### run command in package.json to deploy SC   `npm run deploy_stake_bnb`   `npm run deploy_stake_eth`   `npm run deploy_stake_matic`   `npm run deploy_claim`",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nomicfoundation/hardhat-ethers": "^3.0.6",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@openzeppelin/contracts": "^5.0.2",
+    "@openzeppelin/contracts-upgradeable": "^5.0.2",
+    "@openzeppelin/hardhat-upgrades": "^3.2.0",
+    "dotenv": "^16.4.5",
+    "sol-merger": "^4.4.1"
+  }
+}
