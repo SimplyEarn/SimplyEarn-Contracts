@@ -6,7 +6,10 @@
 # USDse.sol: https://basescan.org/address/0xb38b649cf1013fa8712f203d8a2fb6474b2a8dce
 
 # Live
-# SimplyEarnEntry.sol: 
-# SimplyEarnFactory.sol: 
-# SimplyEarnStake.sol: 
-# USDse.sol: 
+# SimplyEarnEntry.sol: https://bscscan.com/address/0xffdccaa568c3860ab9d868c2a88ac8f8bae05ef1
+# SimplyEarnEntry.sol(base): https://basescan.org/address/0xa3f9b02c20ef45a4c2ed5b588cce2b16621352b7
+# SimplyEarnEntry.sol(arb): https://arbiscan.io/address/0xa3f9b02c20ef45a4c2ed5b588cce2b16621352b7
+# SimplyEarnEntry.sol(polygon): https://polygonscan.com/address/0xa3f9b02c20ef45a4c2ed5b588cce2b16621352b7
+# SimplyEarnFactory.sol:  https://bscscan.com/address/0x801b14f57a1da7660cd0aa8e9e43770e81a6e2c4
+# SimplyEarnStake.sol:  https://bscscan.com/address/0x1a58805be7e278a3c6a0baf522eab7be25dd227d
+# USDse.sol:  https://bscscan.com/address/0xa3f9b02c20ef45a4c2ed5b588cce2b16621352b7
